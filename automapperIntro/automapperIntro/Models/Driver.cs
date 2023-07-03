@@ -1,6 +1,6 @@
 ﻿namespace automapperIntro.Models
 {
-    public class Drivercs
+    public class Driver
     {
         public Guid Id { get; set; }
         public string FirstName { get; set; }

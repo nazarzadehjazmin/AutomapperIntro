@@ -25,3 +25,5 @@ C:\Users\user\Desktop\automapperIntro\automapperIntro\automapperIntro\obj\Debug\
 C:\Users\user\Desktop\automapperIntro\automapperIntro\automapperIntro\obj\Debug\net6.0\ref\automapperIntro.dll
 C:\Users\user\Desktop\automapperIntro\automapperIntro\automapperIntro\obj\Debug\net6.0\automapperIntro.pdb
 C:\Users\user\Desktop\automapperIntro\automapperIntro\automapperIntro\obj\Debug\net6.0\automapperIntro.genruntimeconfig.cache
+C:\Users\user\Desktop\automapperIntro\automapperIntro\automapperIntro\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Desktop\automapperIntro\automapperIntro\automapperIntro\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
